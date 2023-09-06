@@ -24,7 +24,7 @@ namespace Generics_Lesson
             Console.WriteLine(value);
             Console.WriteLine(second);
 
-            Console.WriteLine(2);
+            Console.WriteLine(1);
         }
       
         
